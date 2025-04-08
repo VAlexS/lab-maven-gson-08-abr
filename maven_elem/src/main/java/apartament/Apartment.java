@@ -6,15 +6,11 @@ public class Apartment {
 
     private final String id; //como el id ha de ser unico, me aseguro que no se pueda modificar declarandolo como constante
 
-    private String address;
+    private String address, description, owner;
 
     private double price;
 
     private int rooms;
-
-    private String description;
-
-    private String owner;
 
     private boolean available;
 

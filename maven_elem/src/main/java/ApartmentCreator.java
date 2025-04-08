@@ -80,17 +80,7 @@ public class ApartmentCreator {
             FileWriter writer = new FileWriter(URL);
 
 
-            //quiero añadir los apartamentos al json
-           // gson.toJson(apartments, JsonArray.class, writer);
-
             gson.toJson(apartments, writer);
-
-
-
-            /*for (Apartment apartmentElement : apartments) {
-                json = gson.toJson(apartmentElement, Apartment.class);
-                writer.write(json+"\n");
-            }*/
 
             writer.close();
 
