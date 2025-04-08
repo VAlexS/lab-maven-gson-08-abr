@@ -1,0 +1,394 @@
+[
+  {
+    "address": "Calle de Alcalá, 15, Madrid",
+    "price": 1200.00,
+    "rooms": 3,
+    "description": "Apartamento luminoso en pleno centro de Madrid, con balcón y vistas a la calle Alcalá.",
+    "owner": "Inmobiliaria Sol",
+    "available": true
+  },
+  {
+    "address": "Paseo de Gracia, 75, Barcelona",
+    "price": 2500.50,
+    "rooms": 4,
+    "description": "Elegante piso modernista en el corazón del Paseo de Gracia, con techos altos y detalles de época.",
+    "owner": "Gaudí Homes",
+    "available": false
+  },
+  {
+    "address": "Avenida de la Albufera, 200, Valencia",
+    "price": 850.75,
+    "rooms": 2,
+    "description": "Apartamento acogedor cerca de la Ciudad de las Artes y las Ciencias, ideal para parejas o pequeñas familias.",
+    "owner": "Levante Properties",
+    "available": true
+  },
+  {
+    "address": "Calle Betis, 30, Sevilla",
+    "price": 950.00,
+    "rooms": 3,
+    "description": "Piso con encanto en el barrio de Triana, con terraza y vistas al río Guadalquivir.",
+    "owner": "Andalusian Flats",
+    "available": true
+  },
+  {
+    "address": "Gran Vía, 45, Bilbao",
+    "price": 1600.20,
+    "rooms": 3,
+    "description": "Amplio apartamento en la Gran Vía, cerca del Museo Guggenheim y de todos los servicios.",
+    "owner": "Bilbao Estates",
+    "available": false
+  },
+  {
+    "address": "Calle de la Princesa, 80, Madrid",
+    "price": 1100.90,
+    "rooms": 2,
+    "description": "Apartamento reformado en la zona de Argüelles, bien comunicado y con mucha luz natural.",
+    "owner": "Madrid Rentals",
+    "available": true
+  },
+  {
+    "address": "Rambla de Catalunya, 100, Barcelona",
+    "price": 2100.00,
+    "rooms": 3,
+    "description": "Piso señorial en la Rambla de Catalunya, con suelos de parquet y acabados de calidad.",
+    "owner": "Catalunya Living",
+    "available": false
+  },
+  {
+    "address": "Avenida del Cid, 150, Valencia",
+    "price": 780.50,
+    "rooms": 2,
+    "description": "Apartamento funcional cerca del centro de Valencia, ideal para estudiantes o jóvenes profesionales.",
+    "owner": "Valencia City Homes",
+    "available": true
+  },
+  {
+    "address": "Calle Feria, 60, Sevilla",
+    "price": 880.00,
+    "rooms": 2,
+    "description": "Piso típico sevillano en el barrio de la Alameda de Hércules, con patio interior.",
+    "owner": "Sevilla Properties",
+    "available": true
+  },
+  {
+    "address": "Alameda de Mazarredo, 25, Bilbao",
+    "price": 1450.75,
+    "rooms": 3,
+    "description": "Apartamento moderno en la Alameda de Mazarredo, con vistas a la ría y diseño contemporáneo.",
+    "owner": "Euskadi Real Estate",
+    "available": false
+  },
+  {
+    "address": "Calle Fuencarral, 120, Madrid",
+    "price": 1350.00,
+    "rooms": 3,
+    "description": "Apartamento con estilo en el barrio de Malasaña, con techos altos y elementos originales.",
+    "owner": "Madrid Chic Apartments",
+    "available": true
+  },
+  {
+    "address": "Diagonal, 400, Barcelona",
+    "price": 2800.90,
+    "rooms": 4,
+    "description": "Lujoso piso en la Avenida Diagonal, con amplias terrazas y acabados de primera calidad.",
+    "owner": "Luxury Barcelona Homes",
+    "available": false
+  },
+  {
+    "address": "Avenida Blasco Ibáñez, 100, Valencia",
+    "price": 920.00,
+    "rooms": 3,
+    "description": "Apartamento espacioso cerca de las universidades, ideal para estudiantes o familias.",
+    "owner": "University Rentals Valencia",
+    "available": true
+  },
+  {
+    "address": "Calle Sierpes, 40, Sevilla",
+    "price": 1100.50,
+    "rooms": 2,
+    "description": "Piso reformado en plena calle Sierpes, con balcón y vistas a la calle más comercial de Sevilla.",
+    "owner": "Seville Center Flats",
+    "available": true
+  },
+  {
+    "address": "Calle Colón de Larreátegui, 10, Bilbao",
+    "price": 1550.00,
+    "rooms": 3,
+    "description": "Apartamento elegante en el centro de Bilbao, cerca de tiendas y restaurantes.",
+    "owner": "Bilbao City Living",
+    "available": false
+  },
+  {
+    "address": "Calle Goya, 90, Madrid",
+    "price": 1700.80,
+    "rooms": 4,
+    "description": "Amplio piso en el barrio de Salamanca, con mucha luz natural y buenas comunicaciones.",
+    "owner": "Salamanca Estates",
+    "available": true
+  },
+  {
+    "address": "Gran Via de les Corts Catalanes, 600, Barcelona",
+    "price": 2300.00,
+    "rooms": 3,
+    "description": "Moderno apartamento en la Gran Vía, con diseño actual y todas las comodidades.",
+    "owner": "Barna Modern Living",
+    "available": false
+  },
+  {
+    "address": "Avenida de Aragón, 50, Valencia",
+    "price": 890.60,
+    "rooms": 2,
+    "description": "Apartamento funcional cerca del estadio de Mestalla, ideal para aficionados al fútbol.",
+    "owner": "Mestalla Homes",
+    "available": true
+  },
+  {
+    "address": "Plaza Nueva, 5, Sevilla",
+    "price": 1300.00,
+    "rooms": 3,
+    "description": "Piso con vistas a la Plaza Nueva, en pleno centro histórico de Sevilla.",
+    "owner": "Historical Seville Apartments",
+    "available": true
+  },
+  {
+    "address": "Calle Ercilla, 20, Bilbao",
+    "price": 1250.90,
+    "rooms": 2,
+    "description": "Apartamento acogedor en el barrio de Indautxu, cerca de parques y zonas de ocio.",
+    "owner": "Indautxu Living",
+    "available": false
+  },
+  {
+    "address": "Calle Serrano, 50, Madrid",
+    "price": 2100.00,
+    "rooms": 4,
+    "description": "Exclusivo apartamento en la milla de oro de Madrid, con acabados de lujo.",
+    "owner": "Luxury Madrid Properties",
+    "available": true
+  },
+  {
+    "address": "Plaça Catalunya, 12, Barcelona",
+    "price": 3000.50,
+    "rooms": 5,
+    "description": "Impresionante ático en Plaza Catalunya, con terraza y vistas panorámicas de la ciudad.",
+    "owner": "Barcelona Penthouses",
+    "available": false
+  },
+  {
+    "address": "Paseo Marítimo, 10, Valencia",
+    "price": 1500.00,
+    "rooms": 3,
+    "description": "Apartamento con vistas al mar en la playa de la Malvarrosa.",
+    "owner": "Valencia Beach Homes",
+    "available": true
+  },
+  {
+    "address": "Calle San Fernando, 70, Sevilla",
+    "price": 1050.75,
+    "rooms": 2,
+    "description": "Piso luminoso cerca de la Catedral de Sevilla y el Real Alcázar.",
+    "owner": "Seville Historical Center",
+    "available": true
+  },
+  {
+    "address": "Avenida Sabino Arana, 30, Bilbao",
+    "price": 1380.00,
+    "rooms": 3,
+    "description": "Apartamento moderno en la zona de San Mamés, cerca del estadio y la estación de tren.",
+    "owner": "San Mamés Apartments",
+    "available": false
+  },
+  {
+    "address": "Calle Génova, 25, Madrid",
+    "price": 1550.90,
+    "rooms": 3,
+    "description": "Apartamento reformado en el barrio de Chamberí, con mucho encanto.",
+    "owner": "Chamberí Rentals",
+    "available": true
+  },
+  {
+    "address": "Carrer de Balmes, 150, Barcelona",
+    "price": 2200.00,
+    "rooms": 4,
+    "description": "Amplio piso en la calle Balmes, con suelos hidráulicos originales.",
+    "owner": "Eixample Apartments",
+    "available": false
+  },
+  {
+    "address": "Calle de Colón, 30, Valencia",
+    "price": 1150.50,
+    "rooms": 3,
+    "description": "Apartamento céntrico en la calle Colón, cerca de tiendas y transporte público.",
+    "owner": "Valencia Central Homes",
+    "available": true
+  },
+  {
+    "address": "Calle Regina, 15, Sevilla",
+    "price": 980.00,
+    "rooms": 2,
+    "description": "Piso con terraza en el barrio de la Macarena.",
+    "owner": "Macarena Flats",
+    "available": true
+  },
+  {
+    "address": "Calle Licenciado Poza, 40, Bilbao",
+    "price": 1200.75,
+    "rooms": 2,
+    "description": "Apartamento funcional en el barrio de Deusto, cerca de la universidad.",
+    "owner": "Deusto Living",
+    "available": false
+  },
+  {
+    "address": "Plaza de España, 10, Madrid",
+    "price": 1900.00,
+    "rooms": 3,
+    "description": "Apartamento con vistas a la Plaza de España.",
+    "owner": "Madrid City Center",
+    "available": true
+  },
+  {
+    "address": "Avinguda del Paral·lel, 80, Barcelona",
+    "price": 1800.90,
+    "rooms": 3,
+    "description": "Apartamento moderno cerca del Paral·lel y Montjuïc.",
+    "owner": "Paral·lel Apartments",
+    "available": false
+  },
+  {
+    "address": "Avenida de las Cortes Valencianas, 40, Valencia",
+    "price": 1050.00,
+    "rooms": 2,
+    "description": "Apartamento en la zona de negocios de Valencia.",
+    "owner": "Valencia Business Flats",
+    "available": true
+  },
+  {
+    "address": "Calle Castillo, 20, Sevilla",
+    "price": 820.50,
+    "rooms": 2,
+    "description": "Piso tranquilo en el barrio de Los Remedios.",
+    "owner": "Los Remedios Properties",
+    "available": true
+  },
+  {
+    "address": "Calle Autonomía, 60, Bilbao",
+    "price": 1150.75,
+    "rooms": 3,
+    "description": "Apartamento bien comunicado en el barrio de Abando.",
+    "owner": "Abando Living",
+    "available": false
+  },
+  {
+    "address": "Calle Velázquez, 35, Madrid",
+    "price": 2300.00,
+    "rooms": 4,
+    "description": "Elegante piso en el barrio de Salamanca.",
+    "owner": "Salamanca Luxury Homes",
+    "available": true
+  },
+  {
+    "address": "Carrer d'Enric Granados, 90, Barcelona",
+    "price": 2600.90,
+    "rooms": 4,
+    "description": "Apartamento con estilo en la calle Enric Granados.",
+    "owner": "Enric Granados Apartments",
+    "available": false
+  },
+  {
+    "address": "Avenida del Puerto, 120, Valencia",
+    "price": 1300.00,
+    "rooms": 3,
+    "description": "Apartamento cerca del puerto de Valencia.",
+    "owner": "Valencia Port Homes",
+    "available": true
+  },
+  {
+    "address": "Calle San Jacinto, 50, Sevilla",
+    "price": 900.50,
+    "rooms": 2,
+    "description": "Piso con encanto en Triana.",
+    "owner": "Triana Living",
+    "available": true
+  },
+  {
+    "address": "Calle Navarra, 15, Bilbao",
+    "price": 1080.75,
+    "rooms": 2,
+    "description": "Apartamento reformado en el centro de Bilbao.",
+    "owner": "Bilbao Center Apartments",
+    "available": false
+  },
+  {
+    "address": "Calle Almagro, 70, Madrid",
+    "price": 1850.00,
+    "rooms": 3,
+    "description": "Apartamento luminoso en el barrio de Chamberí.",
+    "owner": "Almagro Properties",
+    "available": true
+  },
+  {
+    "address": "Carrer de Muntaner, 200, Barcelona",
+    "price": 2000.90,
+    "rooms": 3,
+    "description": "Apartamento clásico en la calle Muntaner.",
+    "owner": "Muntaner Apartments",
+    "available": false
+  },
+  {
+    "address": "Avenida de Francia, 25, Valencia",
+    "price": 980.00,
+    "rooms": 2,
+    "description": "Apartamento moderno cerca de la Ciudad de las Artes.",
+    "owner": "City of Arts Homes",
+    "available": true
+  },
+  {
+    "address": "Calle Pureza, 30, Sevilla",
+    "price": 850.50,
+    "rooms": 2,
+    "description": "Piso tradicional en el corazón de Triana.",
+    "owner": "Pureza Flats",
+    "available": true
+  },
+  {
+    "address": "Calle Hurtado de Amézaga, 35, Bilbao",
+    "price": 1100.75,
+    "rooms": 2,
+    "description": "Apartamento céntrico cerca de la estación de Abando.",
+    "owner": "Abando Station Apartments",
+    "available": false
+  },
+  {
+    "address": "Calle Orense, 60, Madrid",
+    "price": 1650.00,
+    "rooms": 3,
+    "description": "Apartamento bien ubicado cerca de Nuevos Ministerios.",
+    "owner": "Nuevos Ministerios Properties",
+    "available": true
+  },
+  {
+    "address": "Carrer de la Diputació, 300, Barcelona",
+    "price": 1900.90,
+    "rooms": 3,
+    "description": "Apartamento espacioso en la calle Diputació.",
+    "owner": "Diputació Apartments",
+    "available": false
+  },
+  {
+    "address": "Avenida Pío XII, 70, Valencia",
+    "price": 1020.00,
+    "rooms": 2,
+    "description": "Apartamento tranquilo en la zona de Pío XII.",
+    "owner": "Pío XII Homes",
+    "available": true
+  },
+  {
+    "address": "Calle Resolana, 45, Sevilla",
+    "price": 790.50,
+    "rooms": 2,
+    "description": "Piso acogedor cerca de la Alameda de Hércules.",
+    "owner": "Resolana Flats",
+    "available": true
+  }
+]
