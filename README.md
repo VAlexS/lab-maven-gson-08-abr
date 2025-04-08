@@ -240,3 +240,17 @@ public class ApartmentCreator {
 ```
 
 </details>
+
+## Pull Request
+
+Genera una pull request con tu solución y compártela en el portal.
+
+Abre tu repo en github y ve a la pestaña de Pull Requests. Haz clic en "New Pull Request" y selecciona tu rama. Asegúrate de que la base sea la rama principal del repo original. Añade un título y una descripción y haz clic en "Create Pull Request".
+
+Se creará una petición al autor del repositorio original para que revise tu código y lo integre en su proyecto. 
+
+En éste caso no vamos a integrar el código, simplemente es para que veamos los cambios que has realizado y cómo lo has hecho.
+
+El link que generará de la pull request será algo parecido a esto:
+`github.com/tu_usuario/tu_repo/pull/1`
+Puedes copiarlo y pegarlo en el portal.
