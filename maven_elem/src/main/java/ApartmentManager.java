@@ -23,9 +23,9 @@ public class ApartmentManager {
 
             List<Apartment> apartamentList = new ArrayList<>();
 
-            for (JsonElement appartamentElement : apartmentsArrayJson){
-                Apartment apartament = gson.fromJson(appartamentElement, Apartment.class);
-                apartamentList.add(apartament);
+            for (JsonElement apartmentElement : apartmentsArrayJson){
+                Apartment apartment = gson.fromJson(apartmentElement, Apartment.class);
+                apartamentList.add(apartment);
             }
 
             reader.close();
