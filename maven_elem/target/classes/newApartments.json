@@ -1,0 +1,29 @@
+[
+  {
+    "id": "465becf6-202c-47c3-b9e9-18b64dfe1ee0",
+    "address": "Calle Dulcinea 57, Portal B, 8º A, Madrid",
+    "price": 40000.3,
+    "rooms": 4,
+    "description": "Piso con buenas vistas y con terraza. A 15 minutos en coche del parque juan carlos I. Por si te apetece volar la cometa en pleno Madrid.",
+    "owner": "Victor",
+    "available": true
+  },
+  {
+    "id": "db6862de-ba7a-48ac-91dc-2f9538e091be",
+    "address": "Calle Segovia, 206, Uceda, Guadalajara.",
+    "price": 3200.3,
+    "rooms": 6,
+    "description": "Chalet individual con buenas vistas.",
+    "owner": "Paco",
+    "available": false
+  },
+  {
+    "id": "08c80bba-1615-4c78-8e17-ee722f7bada6",
+    "address": "Avenida de las sirenas, 10, 5º 9, Torrevieja, Alicante",
+    "price": 45000.0,
+    "rooms": 3,
+    "description": "Piso en primera linea de playa con vistas al mar",
+    "owner": "Alejandro",
+    "available": false
+  }
+]
